@@ -3,7 +3,7 @@
  
   ❤️ I love writing code and sharing my knowledge with others
 
-  🚀 Check out my recent project [NeonSky 2D GAME](https://github.com/BrunoGoretti/NeonSky)
+  🚀 Check out my recent projects [NeonSky 2D GAME](https://github.com/BrunoGoretti/NeonSky) and [PiggyGame](https://github.com/BrunoGoretti/PiggyGame)
 
      🧰 Toolbox
 
