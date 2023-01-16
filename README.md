@@ -11,4 +11,4 @@
  Sometimes I create projects in 🎲[Unity](https://unity.com/) and everything about it.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoGoretti)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGoretti)](https://github.com/anuraghazra/github-readme-stats)
