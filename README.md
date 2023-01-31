@@ -8,8 +8,7 @@
  <b> [BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)
   
 [Trivia](https://github.com/BrunoGoretti/Trivia)
-  
-[Pizzeria](https://github.com/BrunoGoretti/Pizzeria) 
+  [Pizzeria](https://github.com/BrunoGoretti/Pizzeria) 
   
 [NeonSky 2D GAME](https://github.com/BrunoGoretti/NeonSky)
   
