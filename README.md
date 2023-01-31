@@ -6,14 +6,14 @@
   🚀 Check out my recent projects 
 
  <b> [BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)
+  
+[Trivia](https://github.com/BrunoGoretti/Trivia)
 
 [Pizzeria](https://github.com/BrunoGoretti/Pizzeria) 
 
 [NeonSky 2D GAME](https://github.com/BrunoGoretti/NeonSky)
 
 [Classic-Snake](https://github.com/BrunoGoretti/Classic-Snake)
-
-[Trivia](https://github.com/BrunoGoretti/Trivia)
 
 [PiggyGame](https://github.com/BrunoGoretti/PiggyGame)</b>
 
