@@ -4,9 +4,9 @@
   ❤️ I love writing code and sharing my knowledge with others
 
   🚀 Check out my recent projects 
- <b> [BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)</b>
+ <b> [BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)
 
-/b>[NeonSky 2D GAME](https://github.com/BrunoGoretti/NeonSky)</b>
+[NeonSky 2D GAME](https://github.com/BrunoGoretti/NeonSky)</b>
 
  [Classic-Snake](https://github.com/BrunoGoretti/Classic-Snake), [Trivia](https://github.com/BrunoGoretti/Trivia), [PiggyGame](https://github.com/BrunoGoretti/PiggyGame) and [Pizzeria](https://github.com/BrunoGoretti/Pizzeria)
 
