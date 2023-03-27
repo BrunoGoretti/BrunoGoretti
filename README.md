@@ -15,7 +15,7 @@
   
 [Classic-Snake](https://github.com/BrunoGoretti/Classic-Snake)
   
-[PiggyGame](https://github.com/BrunoGoretti/PiggyGame)</b>
+[PiggyGame](https://github.com/BrunoGoretti/PiggyGame)
  
 [MovieLand](https://github.com/BrunoGoretti/MovieLand)</b>
 
