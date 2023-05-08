@@ -1,5 +1,5 @@
 <p align="center">
- <b> Hi, welcome ! </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <b> Hi! </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
   ❤️ I love writing code and sharing my knowledge with others
 
