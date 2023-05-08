@@ -3,8 +3,6 @@
  
   ❤️ I'm passionate about creating high-quality software and building innovative solutions that help solve real-world problems. My projects reflect my dedication to  learning and growing as a developer, and I'm always looking for new challenges to tackle.
 
-In my free time, you'll usually find me experimenting with new technologies, contributing to open source projects, or exploring the great outdoors.
-
   🚀 Feel free to check out my repositories to see some of my recent work. If you have any questions or are interested in collaborating on a project, don't hesitate to reach out!
 
  <b> [BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)
