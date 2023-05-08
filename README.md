@@ -6,7 +6,9 @@ My projects reflect my dedication to  learning and growing as a developer, and I
 
   🚀 Feel free to check out my repositories to see some of my recent work. If you have any questions or are interested in collaborating on a project, don't hesitate to reach out!
 
- <b> [BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)
+ </b>
+  
+[BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)
   
 [Trivia](https://github.com/BrunoGoretti/Trivia)
   
