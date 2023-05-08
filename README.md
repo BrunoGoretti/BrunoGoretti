@@ -1,7 +1,8 @@
 <p align="center">
  <b> Hey there! I'm Gor Arshakyan, a software developer! </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
-  ❤️ I'm passionate about creating high-quality software and building innovative solutions that help solve real-world problems. My projects reflect my dedication to  learning and growing as a developer, and I'm always looking for new challenges to tackle.
+  ❤️ I'm passionate about creating high-quality software and building innovative solutions that help solve real-world problems. 
+My projects reflect my dedication to  learning and growing as a developer, and I'm always looking for new challenges to tackle.
 
   🚀 Feel free to check out my repositories to see some of my recent work. If you have any questions or are interested in collaborating on a project, don't hesitate to reach out!
 
