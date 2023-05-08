@@ -1,5 +1,5 @@
 <p align="center">
- <b> Hey there! I'm Gor Arshakyan, a software developer! </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <b> Hey there! I'm Gor Arshakyan, a software developer! </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px height="40px">
  
   ❤️ I'm passionate about creating high-quality software and building innovative solutions that help solve real-world problems. 
 My projects reflect my dedication to  learning and growing as a developer, and I'm always looking for new challenges to tackle.
