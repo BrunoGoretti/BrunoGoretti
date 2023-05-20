@@ -20,7 +20,7 @@ My projects reflect my dedication to  learning and growing as a developer, and I
   
 [PiggyGame](https://github.com/BrunoGoretti/PiggyGame)
  
-[MovieLand](https://github.com/BrunoGoretti/MovieLand)</b>
+[MovieLand](https://github.com/BrunoGoretti/MovieLand)
 
 [MVC-Planner](https://github.com/BrunoGoretti/MVC-Planner)</b>
 
