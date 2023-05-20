@@ -22,6 +22,8 @@ My projects reflect my dedication to  learning and growing as a developer, and I
  
 [MovieLand](https://github.com/BrunoGoretti/MovieLand)</b>
 
+[MVC-Planner](https://github.com/BrunoGoretti/MVC-Planner)</b>
+
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </a> <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="unity" width="40" height="40"/> </a> 
 </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="unity" width="40" height="40"/> </a> 
