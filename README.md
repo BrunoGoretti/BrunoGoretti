@@ -20,7 +20,7 @@ My projects reflect my dedication to  learning and growing as a developer, and I
 
 
 
-Game Projects
+ɢᴀᴍᴇ ᴘʀᴏᴊᴇᴄᴛꜱ
 
 [Trivia](https://github.com/BrunoGoretti/Trivia)
 
