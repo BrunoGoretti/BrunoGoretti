@@ -7,6 +7,8 @@ My projects reflect my dedication to  learning and growing as a developer, and I
   🚀 Feel free to check out my repositories to see some of my recent work. If you have any questions or are interested in collaborating on a project, don't hesitate to reach out!
 
  <b>
+
+[Scooter-Rental-Service](https://github.com/BrunoGoretti/Scooter-Rental-Service)
   
 [BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)
   
