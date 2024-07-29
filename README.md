@@ -12,23 +12,23 @@ My projects reflect my dedication to  learning and growing as a developer, and I
   
 [BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)
   
-[Trivia](https://github.com/BrunoGoretti/Trivia)
-  
 [Pizzeria](https://github.com/BrunoGoretti/Pizzeria) 
   
-[NeonSky 2D GAME](https://github.com/BrunoGoretti/NeonSky)
-  
-[Classic-Snake](https://github.com/BrunoGoretti/Classic-Snake)
-  
-[PiggyGame](https://github.com/BrunoGoretti/PiggyGame)
- 
 [MovieLand](https://github.com/BrunoGoretti/MovieLand)
 
 [MVC-Planner](https://github.com/BrunoGoretti/MVC-Planner)</b>
 
 
 
- Sometimes I create projects in 🎲[Unity](https://unity.com/) and everything about it.
+Game Projects
+
+[Trivia](https://github.com/BrunoGoretti/Trivia)
+
+[NeonSky 2D GAME](https://github.com/BrunoGoretti/NeonSky)
+
+[Classic-Snake](https://github.com/BrunoGoretti/Classic-Snake)
+
+[PiggyGame](https://github.com/BrunoGoretti/PiggyGame)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGoretti)](https://github.com/anuraghazra/github-readme-stats)
