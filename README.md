@@ -8,7 +8,7 @@ My projects reflect my dedication to  learning and growing as a developer, and I
 
  <b>
   
-[Scooter-Rental-Service](https://github.com/BrunoGoretti/UserAuthSystem)
+[UserAuthSystem](https://github.com/BrunoGoretti/UserAuthSystem)
   
 [Scooter-Rental-Service](https://github.com/BrunoGoretti/Scooter-Rental-Service)
   
