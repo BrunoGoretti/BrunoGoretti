@@ -27,7 +27,5 @@ My projects reflect my dedication to  learning and growing as a developer, and I
 
 [Classic-Snake](https://github.com/BrunoGoretti/Classic-Snake)
 
-[PiggyGame](https://github.com/BrunoGoretti/PiggyGame)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGoretti)](https://github.com/anuraghazra/github-readme-stats)
