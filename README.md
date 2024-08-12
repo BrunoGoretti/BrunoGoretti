@@ -23,8 +23,6 @@ My projects reflect my dedication to  learning and growing as a developer, and I
 
 ɢᴀᴍᴇ ᴘʀᴏᴊᴇᴄᴛꜱ
 
-[Trivia](https://github.com/BrunoGoretti/Trivia)
-
 [NeonSky 2D GAME](https://github.com/BrunoGoretti/NeonSky)
 
 [Classic-Snake](https://github.com/BrunoGoretti/Classic-Snake)
