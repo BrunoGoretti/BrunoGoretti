@@ -21,7 +21,7 @@ My projects reflect my dedication to  learning and growing as a developer, and I
 
 
 
-G̲̅A̲̅M̲̅E̲̅ P̲̅R̲̅O̲̅J̲̅E̲̅C̲̅T̲̅S̲̅
+GAME PROJECTS
 
 [Survival Island](https://github.com/BrunoGoretti/Survival-Island-3D-Game)
 
