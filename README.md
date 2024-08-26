@@ -22,7 +22,7 @@ My projects reflect my dedication to  learning and growing as a developer, and I
 
 
 GAME PROJECTS
-
+<b>
 [Survival Island](https://github.com/BrunoGoretti/Survival-Island-3D-Game)
 
 [NeonSky](https://github.com/BrunoGoretti/NeonSky)
@@ -31,3 +31,4 @@ GAME PROJECTS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGoretti)](https://github.com/anuraghazra/github-readme-stats)
+</b>
