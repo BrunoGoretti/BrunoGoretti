@@ -1,5 +1,5 @@
 <p align="center">
- <b> Hey there! I'm Gor Arshakyan, a software developer! </b>
+ <b> Hey there! I'm Gor Arshakyan, a Software Developer! </b>
  
   ❤️ I'm passionate about creating high-quality software and building innovative solutions that help solve real-world problems. 
 My projects reflect my dedication to  learning and growing as a developer, and I'm always looking for new challenges to tackle.
