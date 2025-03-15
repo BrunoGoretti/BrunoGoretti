@@ -33,7 +33,3 @@ GAME PROJECTS
 [NeonSky](https://github.com/BrunoGoretti/NeonSky)
 
 [Classic Snake](https://github.com/BrunoGoretti/Classic-Snake)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGoretti)](https://github.com/anuraghazra/github-readme-stats)
-</b>
