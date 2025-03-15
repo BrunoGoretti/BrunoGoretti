@@ -15,7 +15,8 @@ My projects reflect my dedication to  learning and growing as a developer, and I
 
 
 [UserAuthSystem](https://github.com/BrunoGoretti/UserAuthSystem)
-  
+![UserAuthSystem](https://github.com/user-attachments/assets/a84cf4df-f732-4b32-81f7-ec017381081f)
+
 [Scooter-Rental-Service](https://github.com/BrunoGoretti/Scooter-Rental-Service)
   
 [BookRental](https://github.com/BrunoGoretti/LibraryHomeWork)
