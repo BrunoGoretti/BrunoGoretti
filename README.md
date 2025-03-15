@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Gor Arshakyan**, a Software Developer!
+👋 Hello there ![HelloThere](https://github.com/user-attachments/assets/01ec1cc1-7f0e-422d-86c4-200fed02d917)
 
 I'm passionate about creating high-quality software and building innovative solutions that help solve real-world problems. My projects reflect my dedication to learning and growing as a developer, and I'm always looking for new challenges to tackle.
 
