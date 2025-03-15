@@ -33,6 +33,8 @@ GAME PROJECTS
 <b>
 
 [Survival Island](https://github.com/BrunoGoretti/Survival-Island-3D-Game)
+![Island](https://github.com/user-attachments/assets/3461491a-b2c8-45a2-980f-d527a6f4a289)
+
 
 [NeonSky](https://github.com/BrunoGoretti/NeonSky)
 
