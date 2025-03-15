@@ -9,7 +9,7 @@ My projects reflect my dedication to  learning and growing as a developer, and I
  <b>
 
 [WebStoreHub](https://github.com/BrunoGoretti/WebStoreHub)
-![webstore](https://github.com/user-attachments/assets/c174be92-7149-47bb-81bb-8051f558e40a)
+![webstore](https://github.com/user-attachments/assets/6fc3b453-f7be-415c-88d4-1ca28364c3a8 =250x250)
 
 
 [UserAuthSystem](https://github.com/BrunoGoretti/UserAuthSystem)
