@@ -16,15 +16,7 @@ Feel free to explore some of my recent work. If you have any questions or are in
 - [**WebStoreHub**](https://github.com/BrunoGoretti/WebStoreHub)  
   
 - [**UserAuthSystem**](https://github.com/BrunoGoretti/UserAuthSystem)  
-
-- [**Scooter-Rental-Service**](https://github.com/BrunoGoretti/Scooter-Rental-Service)
   
-- [**BookRental**](https://github.com/BrunoGoretti/LibraryHomeWork)
-  
-- [**Pizzeria**](https://github.com/BrunoGoretti/Pizzeria) 
-  
-- [**MovieLand**](https://github.com/BrunoGoretti/MovieLand)
-
 ---
 
 ## 🎮 Game Projects
