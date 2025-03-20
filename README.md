@@ -8,8 +8,6 @@
 
 ---
 
-Feel free to explore some of my repositories.
-
 ### Web & Software Projects
 [**WebStoreHub**](https://github.com/BrunoGoretti/WebStoreHub)  
   
