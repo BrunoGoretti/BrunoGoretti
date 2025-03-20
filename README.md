@@ -10,8 +10,11 @@
 ---
 
 ### Web & Software Projects
-[**WebStoreHub**](https://github.com/BrunoGoretti/WebStoreHub)  
-  
+
+### 🛒 **WebStoreHub**   
+[WebStoreHub](https://github.com/BrunoGoretti/WebStoreHub) a full-stack e-commerce platform designed to provide a seamless shopping experience.
+![Eshop](https://github.com/user-attachments/assets/185317f6-0627-4494-a338-e47fcd11a5e1)
+
 [**UserAuthSystem**](https://github.com/BrunoGoretti/UserAuthSystem)  
   
 ### Teck Stak
