@@ -10,7 +10,6 @@ I'm passionate about creating high-quality software and building innovative solu
 Feel free to explore some of my recent work. If you have any questions or are interested in collaborating on a project, don't hesitate to reach out!
 
 ### Web & Software Projects
-- [WebStoreHub](https://github.com/BrunoGoretti/WebStoreHub) - An e-commerce platform.
 - [**WebStoreHub**](https://github.com/BrunoGoretti/WebStoreHub)  
   ![webstore](https://github.com/user-attachments/assets/f4b80d32-66f7-475d-adab-20ba67836e4a)
   
