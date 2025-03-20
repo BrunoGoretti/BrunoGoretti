@@ -2,8 +2,9 @@
 *Hello there!*
 
 ### I'm Gor
- 
-I'm passionate about creating high-quality software and building innovative solutions that help solve real-world problems. My projects reflect my dedication to learning and growing as a developer, and I'm always looking for new challenges to tackle.
+
+Software Developer
+Digital Artist
 
 ---
 
