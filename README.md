@@ -17,7 +17,7 @@
 
 ## 🎮 Game Projects
 
-<a href="https://github.com/BrunoGoretti/Survival-Island-3D-Game" style="text-decoration: none;">Survival Island</a>
+[![Survival Island](https://img.shields.io/badge/Survival_Island-3D_Game-blue)](https://github.com/BrunoGoretti/Survival-Island-3D-Game)
 
 [**NeonSky**](https://github.com/BrunoGoretti/NeonSky)  
 
