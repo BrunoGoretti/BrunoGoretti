@@ -8,9 +8,7 @@
 
 ---
 
-## 🚀 Check out my repositories
-
-Feel free to explore some of my recent work. If you have any questions or are interested in collaborating on a project, don't hesitate to reach out!
+Feel free to explore some of my repositories.
 
 ### Web & Software Projects
 [**WebStoreHub**](https://github.com/BrunoGoretti/WebStoreHub)  
