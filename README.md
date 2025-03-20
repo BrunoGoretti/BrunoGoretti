@@ -13,23 +13,23 @@
 Feel free to explore some of my recent work. If you have any questions or are interested in collaborating on a project, don't hesitate to reach out!
 
 ### Web & Software Projects
-- [**WebStoreHub**](https://github.com/BrunoGoretti/WebStoreHub)  
+[**WebStoreHub**](https://github.com/BrunoGoretti/WebStoreHub)  
   
-- [**UserAuthSystem**](https://github.com/BrunoGoretti/UserAuthSystem)  
+[**UserAuthSystem**](https://github.com/BrunoGoretti/UserAuthSystem)  
   
 ---
 
 ## 🎮 Game Projects
 
-- [**Survival Island**](https://github.com/BrunoGoretti/Survival-Island-3D-Game)  
+[**Survival Island**](https://github.com/BrunoGoretti/Survival-Island-3D-Game)  
 
-- [**NeonSky**](https://github.com/BrunoGoretti/NeonSky)  
+[**NeonSky**](https://github.com/BrunoGoretti/NeonSky)  
 
 ---
 
 ## 🌐 Website
 
-- [**BrunoGorettiArt**](https://github.com/BrunoGoretti/BrunoGorettiArt)  
+[**BrunoGorettiArt**](https://github.com/BrunoGoretti/BrunoGorettiArt)  
 
 ---
 
