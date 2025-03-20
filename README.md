@@ -14,10 +14,8 @@ Feel free to explore some of my recent work. If you have any questions or are in
 
 ### Web & Software Projects
 - [**WebStoreHub**](https://github.com/BrunoGoretti/WebStoreHub)  
-  ![webstore](https://github.com/user-attachments/assets/f4b80d32-66f7-475d-adab-20ba67836e4a)
   
 - [**UserAuthSystem**](https://github.com/BrunoGoretti/UserAuthSystem)  
-  ![UserAuthSystem](https://github.com/user-attachments/assets/a84cf4df-f732-4b32-81f7-ec017381081f)
 
 - [**Scooter-Rental-Service**](https://github.com/BrunoGoretti/Scooter-Rental-Service)
   
@@ -32,10 +30,8 @@ Feel free to explore some of my recent work. If you have any questions or are in
 ## 🎮 Game Projects
 
 - [**Survival Island**](https://github.com/BrunoGoretti/Survival-Island-3D-Game)  
-  ![Island](https://github.com/user-attachments/assets/3461491a-b2c8-45a2-980f-d527a6f4a289)
 
 - [**NeonSky**](https://github.com/BrunoGoretti/NeonSky)  
-  ![NeonSky](https://github.com/user-attachments/assets/a9a4dfb4-7076-4ad4-9310-7aca4fcd1994)
 
 - [**Classic Snake**](https://github.com/BrunoGoretti/Classic-Snake)
 
