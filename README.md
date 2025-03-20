@@ -4,6 +4,7 @@
 ### I'm Gor
 
 👨‍💻 Software Developer <br/>
+🎮 Game Developer <br/>
 🎨 Digital Artist
 
 ---
