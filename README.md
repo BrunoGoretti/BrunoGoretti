@@ -3,8 +3,8 @@
 
 ### I'm Gor
 
-- Software Developer
-- Digital Artist
+👨‍💻 Software Developer
+🎨 Digital Artist
 
 ---
 
