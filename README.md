@@ -17,7 +17,6 @@ Feel free to explore some of my recent work. If you have any questions or are in
   
 [**UserAuthSystem**](https://github.com/BrunoGoretti/UserAuthSystem)  
   
----
 
 ## 🎮 Game Projects
 
@@ -25,18 +24,10 @@ Feel free to explore some of my recent work. If you have any questions or are in
 
 [**NeonSky**](https://github.com/BrunoGoretti/NeonSky)  
 
----
 
 ## 🌐 Website
 
 [**BrunoGorettiArt**](https://github.com/BrunoGoretti/BrunoGorettiArt)  
-
----
-
-
-## 📩 Get in Touch!
-
-If you'd like to collaborate or just chat, feel free!
 
 ---
 
