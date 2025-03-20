@@ -40,7 +40,7 @@
 
 ## 🌐 Website
 
-[**BrunoGorettiArt**](https://brunogoretti.github.io/BrunoGorettiArt/)  
+[**BrunoGorettiArt**](https://brunogoretti.github.io/BrunoGorettiArt/) my personal website with my digital art.
 
 ---
 
