@@ -34,11 +34,6 @@ A 3D survival game built with Unity. Explore, craft, and survive on a mysterious
 A fast-paced arcade game with a neon aesthetic. Dodge obstacles and score points!  
 ![NeonSky](https://github.com/user-attachments/assets/a9a4dfb4-7076-4ad4-9310-7aca4fcd1994)  
 
-**Technologies Used**:  
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
-
-**Links**:  
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-NeonSky-181717?logo=github)](https://github.com/BrunoGoretti/NeonSky)  
 
 ---
