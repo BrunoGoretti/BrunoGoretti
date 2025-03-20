@@ -21,8 +21,6 @@
 [Survival-Island](https://github.com/BrunoGoretti/Survival-Island-3D-Game) a 3D survival game built with Unity. Explore, craft, and survive on a mysterious island!  
 ![Island](https://github.com/user-attachments/assets/3461491a-b2c8-45a2-980f-d527a6f4a289)  
 
-**Links**:  
-
 ---
 
 ### 🌌 **NeonSky**  
