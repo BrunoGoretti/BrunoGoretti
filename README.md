@@ -3,7 +3,7 @@
 
 ### I'm Gor
 
-👨‍💻 Software Developer
+👨‍💻 Software Developer <br/>
 🎨 Digital Artist
 
 ---
