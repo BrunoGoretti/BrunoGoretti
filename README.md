@@ -27,7 +27,6 @@ A 3D survival game built with Unity. Explore, craft, and survive on a mysterious
 
 **Links**:  
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-Survival_Island-181717?logo=github)](https://github.com/BrunoGoretti/Survival-Island-3D-Game)  
-[![Try Demo](https://img.shields.io/badge/Try_Demo-Online-9cf)](https://your-demo-link.com) *(if applicable)*  
 
 ---
 
@@ -41,20 +40,8 @@ A fast-paced arcade game with a neon aesthetic. Dodge obstacles and score points
 
 **Links**:  
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-NeonSky-181717?logo=github)](https://github.com/BrunoGoretti/NeonSky)  
-[![Try Demo](https://img.shields.io/badge/Try_Demo-Online-9cf)](https://your-demo-link.com) *(if applicable)*  
 
 ---
-
-### 🐍 **Classic Snake**  
-A modern twist on the classic Snake game. Built with Python and Pygame.  
-
-**Technologies Used**:  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Pygame](https://img.shields.io/badge/Pygame-FFD43B?logo=python&logoColor=blue)  
-
-**Links**:  
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-Classic_Snake-181717?logo=github)](https://github.com/BrunoGoretti/Classic-Snake)  
-[![Try Demo](https://img.shields.io/badge/Try_Demo-Online-9cf)](https://your-demo-link.com) *(if applicable)*  
 
 
 ## 🌐 Website
