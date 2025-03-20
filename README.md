@@ -25,10 +25,9 @@
 ---
 
 ### 🌌 **NeonSky**  
-A fast-paced arcade game with a neon aesthetic. Dodge obstacles and score points!  
-![NeonSky](https://github.com/user-attachments/assets/a9a4dfb4-7076-4ad4-9310-7aca4fcd1994)  
 
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-NeonSky-181717?logo=github)](https://github.com/BrunoGoretti/NeonSky)  
+[Survival-Island](https://github.com/BrunoGoretti/Survival-Island-3D-Game) a fast-paced arcade game with a neon aesthetic. Dodge obstacles and score points!  
+![NeonSky](https://github.com/user-attachments/assets/a9a4dfb4-7076-4ad4-9310-7aca4fcd1994)  
 
 ---
 
