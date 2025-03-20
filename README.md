@@ -15,8 +15,11 @@
 [WebStoreHub](https://github.com/BrunoGoretti/WebStoreHub) a full-stack e-commerce platform designed to provide a seamless shopping experience.
 ![Eshop](https://github.com/user-attachments/assets/185317f6-0627-4494-a338-e47fcd11a5e1)
 
-[**UserAuthSystem**](https://github.com/BrunoGoretti/UserAuthSystem)  
-  
+### 🔐 **UserAuthSystem**   
+
+[**UserAuthSystem**](https://github.com/BrunoGoretti/UserAuthSystem) a user authentication system that provides a registration and login form with features.
+![UserAuthSystem](https://github.com/user-attachments/assets/dad79896-0975-4709-ba00-680335535d8a)
+
 ### Teck Stak
 
 ## 🎮 Game Projects
