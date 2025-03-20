@@ -25,7 +25,7 @@ Feel free to explore some of my repositories.
 
 ## 🌐 Website
 
-[**BrunoGorettiArt**](https://github.com/BrunoGoretti/BrunoGorettiArt)  
+[**BrunoGorettiArt**](https://brunogoretti.github.io/BrunoGorettiArt/)  
 
 ---
 
