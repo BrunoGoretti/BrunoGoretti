@@ -33,8 +33,6 @@ Feel free to explore some of my recent work. If you have any questions or are in
 
 - [**NeonSky**](https://github.com/BrunoGoretti/NeonSky)  
 
-- [**Classic Snake**](https://github.com/BrunoGoretti/Classic-Snake)
-
 ---
 
 ## 📩 Get in Touch!
