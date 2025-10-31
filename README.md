@@ -30,7 +30,8 @@
 
 ### 🛒 **WebStoreHub**   
 [WebStoreHub](https://github.com/BrunoGoretti/WebStoreHub) a full-stack e-commerce platform designed to provide a seamless shopping experience.
-![Eshop](https://github.com/user-attachments/assets/185317f6-0627-4494-a338-e47fcd11a5e1)
+![Eshop](https://github.com/user-attachments/assets/2e3a9b5e-dc6d-471e-b298-44928279baa2)
+
 
 ### 🔐 **UserAuthSystem**   
 
