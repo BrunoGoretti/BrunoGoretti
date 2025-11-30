@@ -33,13 +33,6 @@
 ![Eshop](https://github.com/user-attachments/assets/2e3a9b5e-dc6d-471e-b298-44928279baa2)
 
 
-### 🔐 **UserAuthSystem**   
-
-[**UserAuthSystem**](https://github.com/BrunoGoretti/UserAuthSystem) a user authentication system that provides a registration and login form with features.
-![UserAuthSystem](https://github.com/user-attachments/assets/dad79896-0975-4709-ba00-680335535d8a)
-
-### Teck Stak
-
 ## 🎮 Game Projects
 
 ### 🏝️ **Survival Island**   
