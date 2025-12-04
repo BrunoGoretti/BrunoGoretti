@@ -43,7 +43,7 @@
 
 ### 🌌 **NeonSky**  
 
-[NeonSky](https://github.com/BrunoGoretti/NeonSky) a fast-paced arcade game with a neon aesthetic. Dodge obstacles and score points!  
+[NeonSky](https://github.com/BrunoGoretti/NeonSky) a arcade game with a neon aesthetic.
 
 ---
 
