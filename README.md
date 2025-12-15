@@ -41,12 +41,6 @@
 
 ---
 
-### 🌌 **NeonSky**  
-
-[NeonSky](https://github.com/BrunoGoretti/NeonSky) a arcade game with a neon aesthetic.
-
----
-
 
 ## 🌐 Website
 
