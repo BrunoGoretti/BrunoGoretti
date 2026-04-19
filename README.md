@@ -28,7 +28,7 @@
 
 ### 🎮 Game Projects
 
-[![Watch Trailer](https://img.youtube.com/vi/smu43JPiblc/0.jpg)](https://www.youtube.com/watch?v=smu43JPiblc)
+[![Watch Trailer](https://img.youtube.com/vi/15pacZbY9pc/maxresdefault.jpg)](https://www.youtube.com/watch?v=15pacZbY9pc)
 
 
 ## Web & Software Projects
