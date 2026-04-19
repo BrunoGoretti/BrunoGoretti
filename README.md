@@ -26,14 +26,8 @@
 
 ---
 
-### Web & Software Projects
+### 🎮 Game Projects
 
-### 🛒 **WebStoreHub**   
-[WebStoreHub](https://github.com/BrunoGoretti/WebStoreHub) a full-stack e-commerce platform designed to provide a seamless shopping experience.
-![Eshop](https://github.com/user-attachments/assets/2e3a9b5e-dc6d-471e-b298-44928279baa2)
-
-
-## 🎮 Game Projects
 [NEONSKY](https://www.youtube.com/watch?v=smu43JPiblc)
 
 
@@ -42,6 +36,12 @@
 ![Island](https://github.com/user-attachments/assets/01b138ce-5170-404f-aafc-1ec4959d064c)
 
 ---
+
+## Web & Software Projects
+
+### 🛒 **WebStoreHub**   
+[WebStoreHub](https://github.com/BrunoGoretti/WebStoreHub) a full-stack e-commerce platform designed to provide a seamless shopping experience.
+![Eshop](https://github.com/user-attachments/assets/2e3a9b5e-dc6d-471e-b298-44928279baa2)
 
 
 ## 🌐 Website
