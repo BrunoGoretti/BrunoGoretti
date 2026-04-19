@@ -38,7 +38,7 @@
 ## Web & Software Projects
 
 ### 🛒 **WebStoreHub**   
-[WebStoreHub](https://github.com/BrunoGoretti/WebStoreHub) a full-stack e-commerce platform designed to provide a seamless shopping experience.
+[WebStoreHub](https://github.com/BrunoGoretti/WebStoreHub) a full-stack e-commerce platform
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/2e3a9b5e-dc6d-471e-b298-44928279baa2" width="300">
