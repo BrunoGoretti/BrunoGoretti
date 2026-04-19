@@ -28,8 +28,11 @@
 
 ### 🎮 Game Projects
 
-[![Watch Trailer](https://img.youtube.com/vi/smu43JPiblc/0.jpg)](https://www.youtube.com/watch?v=smu43JPiblc)
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=smu43JPiblc">
+    <img src="https://img.youtube.com/vi/smu43JPiblc/maxresdefault.jpg" width="800" style="border-radius:10px;">
+  </a>
+</p>
 ---
 
 ## Web & Software Projects
