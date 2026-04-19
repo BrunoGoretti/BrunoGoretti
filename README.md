@@ -28,12 +28,7 @@
 
 ### 🎮 Game Projects
 
-[NEONSKY](https://www.youtube.com/watch?v=smu43JPiblc)
-
-
-### 🏝️ **Survival Island**   
-[Survival-Island](https://github.com/BrunoGoretti/Survival-Island-3D-Game) a 3D survival game built with Unity. Explore, craft, and survive on a mysterious island!  
-![Island](https://github.com/user-attachments/assets/01b138ce-5170-404f-aafc-1ec4959d064c)
+[![Watch Trailer](https://img.youtube.com/vi/smu43JPiblc/0.jpg)](https://www.youtube.com/watch?v=smu43JPiblc)
 
 ---
 
