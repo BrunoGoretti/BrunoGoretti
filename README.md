@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=LHpFybREOGE">
-    <img src="https://img.youtube.com/vi/LHpFybREOGE/maxresdefault.jpg" width="800">
+    <img src="https://img.youtube.com/vi/LHpFybREOGE/maxresdefault.jpg" width="300">
   </a>
 </p>
 
